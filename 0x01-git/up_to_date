@@ -1,8 +1,1 @@
-git clone
-git status
-git add
-git commit
-git branch
-git checkout
-git push
-git clone 
+git pull
